@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/harshit/resources/audios/flap.wav" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/harshit/resources/audios/jump1.wav" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/harshit/resources/audios/jump2.wav" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/harshit/resources/audios/ting.wav" charset="UTF-8" />
+  </component>
+</project>
